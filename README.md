@@ -1,6 +1,6 @@
-# AuctionLab
+# Vcg auctions
 
-AuctionLab enumerates combinatorial allocations, Vickrey-Clarke-Groves (VCG) prices, report-independent bundle menus and seller-coalition core deficits. Synthetic private values, no actual auctions or money.
+Vcg auctions enumerates combinatorial allocations, Vickrey-Clarke-Groves (VCG) prices, report-independent bundle menus and seller-coalition core deficits. Synthetic private values, no actual auctions or money.
 
 ## Questions the report separates
 
@@ -80,6 +80,6 @@ All efficient ties are retained. Truthful utilities and seller revenue are tie-i
 
 ## Publication status
 
-Reproduction results describe bounded checks, not a claim about the latest deployment. Inspect the current commit and its [native workflow results](https://github.com/midya8/auctionlab/actions) before relying on publication status. The implementation does not interact with actual auctions or payments.
+Reproduction results describe bounded checks, not a claim about the latest deployment. Inspect the current commit and its [native workflow results](https://github.com/midya8/vcg-auctions/actions) before relying on publication status. The implementation does not interact with actual auctions or payments.
 
 MIT licensed. Established mechanism theory is credited separately; no first-implementation or new-theorem claim.
